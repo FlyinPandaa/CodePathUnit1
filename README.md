@@ -21,7 +21,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 ### App Walkthrough GIF
 
-https://imgur.com/9MSagKx
+https://imgur.com/a/KgaY8nI (Revised)
 
 ### Notes
 Got stuck on a problem for 2-3 hours and realized that one of the outlets didn't correctly initialize, so set up the outlet again and everything was functioning as it should.
